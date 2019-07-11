@@ -13,5 +13,5 @@
     yarn install
    
 ## Start
-    yarn start ( test )
+    yarn start
     
