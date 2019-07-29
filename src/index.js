@@ -20,7 +20,7 @@ app.use(bodyParser());
 
 // listen
 app.listen(port, async () => {
-  console.log(`MWS API is listening to port 8080`);
+  console.log(`MWS API is listening to port ${port}`);
 });
 
 let amazonMws = require('amazon-mws')(AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY);
