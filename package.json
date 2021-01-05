@@ -9,7 +9,7 @@
     "@koa/cors": "2",
     "amazon-mws": "0.0.24",
     "await-sleep": "^0.0.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bluebird": "^3.5.1",
     "chalk": "^2.3.0",
     "delay": "^4.2.0",
